@@ -1,4 +1,10 @@
 # Crowd Counting with the Direction of their Movement
+
+### Libraries Used
+- OpenCV
+- Numpy
+- Math
+
 ### Below is the following methodology I have used:
 - Lucas-Kanade method gave me the initial and final vectors of the person.
 - The vectors obtained were used to calculate the direction of the subject by the evaluating angle in degrees.
